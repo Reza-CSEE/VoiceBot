@@ -35,22 +35,6 @@ Key features:
 
 ---
 
-## 📂 Project Structure
-
-```
-VoiceBot/
-│── src/
-│   ├── main.py              # Entry point
-│   ├── speech_to_text.py    # Voice input & recognition
-│   ├── text_to_speech.py    # Response synthesis
-│   ├── nlp_module.py        # NLP & LLM integration
-│   ├── db_manager.py        # MySQL database interactions
-│── requirements.txt
-│── README.md
-```
-
----
-
 ## 🔧 Installation
 
 1. **Clone the repository**
@@ -112,22 +96,6 @@ python src/main.py
 
 ## 📜 License
 
-MIT License © 2025 Reza Ghasemi
+License © 2023 Reza Ghasemi
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-* Fork the repo
-* Create a new branch (`feature-xyz`)
-* Submit a pull request 🚀
-
----
-
-## ✨ Author
-
-👨‍💻 **Reza Ghasemi**
-📧 [r.ghasemi7171@gmail.com](mailto:r.ghasemi7171@gmail.com)
-🔗 [GitHub](https://github.com/Reza-CSEE) | [LinkedIn](https://linkedin.com/in/reza-ghasemi)
